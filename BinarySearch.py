@@ -29,5 +29,5 @@ def binarysearch(List_of_items):
         print("Input error.\nTry again...")
         binarysearch(v)
 
-v= [1,2,3,4,5,6,]
+v= [1,2,3,4,5,7,]
 binarysearch(v)  
